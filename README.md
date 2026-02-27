@@ -1,6 +1,6 @@
 ## Project Overview
 
-Core Design OpenMC Assignments.
+Core Design [@OpenMC](https://github.com/openmc-dev/openmc) Assignments.
 
 <img width="2380" height="810" alt="fuel_assembly_analysis" src="https://github.com/user-attachments/assets/e59d7810-36a9-41ea-90be-1d851215803a" />
 
